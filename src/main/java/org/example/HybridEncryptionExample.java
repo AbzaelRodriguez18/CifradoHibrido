@@ -6,7 +6,7 @@ import java.security.*;
 import java.util.Base64;
 import java.util.Scanner;
 
-public class Main {
+public class HybridEncryptionExample {
     public static void main(String[] args) throws Exception {
         // 1. Pedir mensaje al usuario
         Scanner scanner = new Scanner(System.in);
